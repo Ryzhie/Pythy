@@ -1,4 +1,5 @@
-#Pythpy
+# Pythy Snake
+
 import pygame
 import sys 
 import random
@@ -114,4 +115,4 @@ while True:
     pygame.display.update()
     clock.tick(7)
 
-# end of the code hehe!?
+# end of the program
